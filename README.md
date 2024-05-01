@@ -12,6 +12,7 @@ admin_system backend
       2. Spring Web
       3. MySQL Driver
       4. MyBatis Framework
+      5. MyBatis Plus
    5. plugins:
       1. Auto Filling Java Call Arguments
       2. GenerateAllSetter
